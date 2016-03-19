@@ -1,0 +1,20 @@
+#slider{ background: #C2C2C2;
+}
+.ui-slider-horizontal {
+    height: 8px;
+    width: 640px;
+
+}
+.ui-slider-range {
+    background: transparent;
+}
+.ui-slider .ui-slider-handle {
+    height: 15px;
+    width: 5px;
+    padding-left: 15px;
+    background: red;
+}
+textarea {
+    width: 250px;
+    height: 50px;
+}
